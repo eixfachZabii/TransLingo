@@ -1,3 +1,15 @@
+# Candidate Select Hackathon mit Deloitte.
+
+Am 25. Oktober 2024 stellte unser **dreiköpfiges Team** beim **Candidate Select Hackathon** 
+in München erfolgreich unsere **cloudbasierte KI-Lösung _TransLingo_** vor und konnte
+**Deloitte.** überzeugen. _TransLingo_ bietet eine **leistungsstarke** 
+und **sichere** Lösung zur **Dokumentenübersetzung** und
+**Text-to-Speech-Verarbeitung** speziell für **Behörden** 
+und basiert auf einem **Hybrid-Cloud-Ansatz**, der **AWS Translate**
+und **AWS Polly** integriert. Die Anwendung erfüllt höchste Ansprüche
+an **Skalierbarkeit** und **Kosteneffizienz**, was bei den Vertreter:innen 
+von Deloitte auf ausgesprochen positives Feedback stieß.
+
 # TransLingo - Effiziente Dokumentenübersetzung mit Text-to-Speech für Behörden
 
 ![Folie 1](images/Folie1.png)
