@@ -12,7 +12,7 @@ von Deloitte auf ausgesprochen positives Feedback stieß.
 
 # TransLingo - Effiziente Dokumentenübersetzung mit Text-to-Speech für Behörden
 
-![Folie 1](images/Folie1.png)
+![Folie 1](doc/images/Folie1.png)
 
 **TransLingo** bietet eine sichere und effiziente Lösung zur Übersetzung und Sprachsynthese von Dokumenten für deutsche Behörden. Die Anwendung verbindet eine hybride Cloud-Architektur zur Wahrung der Datensicherheit und Flexibilität.
 
@@ -22,7 +22,7 @@ von Deloitte auf ausgesprochen positives Feedback stieß.
 
 ### Ausgangssituation
 
-![Folie 2](images/Folie2.png)
+![Folie 2](doc/images/Folie2.png)
 
 Eine deutsche Behörde setzt derzeit auf veraltete On-Premise-Systeme, die kostenintensiv und wartungsaufwendig sind. Um die Effizienz zu steigern, wird eine Cloud-basierte Lösung für Dokumentenübersetzung und Text-to-Speech benötigt. Ziel ist die Entwicklung eines **Proof of Concept (PoC)** unter Verwendung von **AWS Translate** und **AWS Polly**.
 
@@ -41,7 +41,7 @@ Eine deutsche Behörde setzt derzeit auf veraltete On-Premise-Systeme, die koste
 - **Serverless-Architektur**: Einsatz von AWS Lambda und AWS S3 zur dynamischen Skalierung und einfachen Integration von TTS- und Übersetzungsprozessen.
 - **Weitere AWS-Services**: Nutzung von CloudWatch zur Überwachung und Protokollierung der Prozesse.
 
-![Folie 3](images/Folie3.png)
+![Folie 3](doc/images/Folie3.png)
 
 ### Lösungsvorschlag: Hybrid-Cloud-Ansatz
 - **Cloud-Szenario**: Persönliche Daten werden Onsite gespeichert; rechenintensive Prozesse wie Text-to-Speech laufen in der AWS-Cloud.
@@ -49,13 +49,13 @@ Eine deutsche Behörde setzt derzeit auf veraltete On-Premise-Systeme, die koste
 - **Skalierbarkeit**: Nutzung von AWS-Services für dynamische Skalierung bei erhöhten Anfragen.
 - **Kostenoptimierung**: Pay-per-Use-Modell und flexible Ressourcennutzung in der Cloud.
 
-![Folie 4](images/Folie4.png)
+![Folie 4](doc/images/Folie4.png)
 
 ---
 
 ## Projektaufbau und Proof of Concept (PoC)
 
-![Folie 5](images/Folie5.png)
+![Folie 5](doc/images/Folie5.png)
 
 ### Schritte zur Implementierung
 1. **AWS-Anmeldung**: Zugang zum vorkonfigurierten AWS-Konto mit benötigten Berechtigungen.
@@ -68,9 +68,9 @@ Eine deutsche Behörde setzt derzeit auf veraltete On-Premise-Systeme, die koste
 - **Upload Page**: Sicherer Upload und Verarbeitung von Dokumenten.
 - **TransLingu Prototype**: Prototyp des TransLingo Text-to-Speech tools
 
-![Folie 6](images/Folie6.png)
-![Folie 7](images/Folie7.png)
-![Folie 8](images/Folie8.png)
+![Folie 6](doc/images/Folie6.png)
+![Folie 7](doc/images/Folie7.png)
+![Folie 8](doc/images/Folie8.png)
 
 ---
 
@@ -78,6 +78,6 @@ Eine deutsche Behörde setzt derzeit auf veraltete On-Premise-Systeme, die koste
 
 Wir freuen uns über Feedback zur Nutzung und Performance der Lösung. Für Fragen oder Anmerkungen kontaktieren Sie uns gerne!
 
-![Folie 9](images/Folie9.png)
+![Folie 9](doc/images/Folie9.png)
 
 **DANKE!**
