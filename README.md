@@ -54,6 +54,7 @@ Eine deutsche Behörde setzt derzeit auf veraltete On-Premise-Systeme, die koste
 ### Demo-Funktionen
 - **Login Page**: Authentifizierter Zugang zur Anwendung.
 - **Upload Page**: Sicherer Upload und Verarbeitung von Dokumenten.
+- **TransLingu Prototype**: Prototyp des TransLingo Text-to-Speech tools
 
 ![Folie 6](images/Folie6.png)
 ![Folie 7](images/Folie7.png)
